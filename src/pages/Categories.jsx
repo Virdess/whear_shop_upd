@@ -1,4 +1,4 @@
-import { IonButton, IonContent, IonHeader, IonLabel, IonNote, IonPage, IonRouterLink, IonRow, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonHeader, IonLabel, IonNote, IonPage, IonRouterLink, IonRow, IonTitle, IonToolbar } from '@ionic/react';
 import { capitalize, productInfo } from '../utils';
 
 import styles from "./Categories.module.scss";
